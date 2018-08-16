@@ -1,0 +1,16 @@
+{
+  "name": "sayurbox",
+  "version": "1.0.0",
+  "description": "Mini project nodejs for testing purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "server",
+    "concurrency"
+  ],
+  "author": "Ali Mahfud",
+  "license": "ISC"
+}
