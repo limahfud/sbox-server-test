@@ -9,7 +9,7 @@ variable on javascript file.
 To run this project simply do this following step:
 ```
 1. Make sure you had installed NodeJS on your computer
-2. Run command *npm index.js*
+2. Run command : node index.js
 3. App will run on port 8080
 ```
 
